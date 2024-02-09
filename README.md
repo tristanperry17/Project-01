@@ -1,9 +1,13 @@
 # Project-01
 Severe Weather Impacts on NC Coastal Counties
 Written by:
+
 Justin Hix
+
 Tristan Perry
-Kayla Jehnzen 
+
+Kayla Jehnzen
+
 Zachary Pederson
 
 This project seeks to independantly analyze the information suggested by the article below:
