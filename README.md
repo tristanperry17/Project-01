@@ -2,7 +2,7 @@
 Severe Weather Impacts on NC Coastal Counties
 Written by:
 
-Justin Hix
+Justen Hix
 
 Tristan Perry
 
